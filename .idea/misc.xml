@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../hamahama/app/src/main/res/drawable/confirm_btn.xml" value="0.107" />
+        <entry key="../hamahama/app/src/main/res/layout/activity_add_diary.xml" value="0.3791208791208791" />
+        <entry key="../hamahama/app/src/main/res/layout/activity_add_photo.xml" value="0.1" />
+        <entry key="../hamahama/app/src/main/res/layout/activity_main.xml" value="0.22056159420289856" />
+        <entry key="../hamahama/app/src/main/res/layout/activity_start.xml" value="0.22056159420289856" />
+        <entry key="../hamahama/app/src/main/res/layout/diary.xml" value="0.1149692480114923" />
+        <entry key="../hamahama/app/src/main/res/layout/diary_add.xml" value="0.22056159420289856" />
+        <entry key="../hamahama/app/src/main/res/layout/diary_info.xml" value="0.22056159420289856" />
+        <entry key="../hamahama/app/src/main/res/layout/diary_list1.xml" value="0.22056159420289856" />
+        <entry key="../hamahama/app/src/main/res/layout/diary_write.xml" value="0.22056159420289856" />
+        <entry key="../hamahama/app/src/main/res/layout/flower_sell.xml" value="0.1" />
+        <entry key="../hamahama/app/src/main/res/layout/info_popup.xml" value="0.22056159420289856" />
+        <entry key="../hamahama/app/src/main/res/layout/invite_friend.xml" value="0.22056159420289856" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.13541666666666666" />
+        <entry key="app/src/main/res/layout/activity_start.xml" value="0.13541666666666666" />
+        <entry key="app/src/main/res/layout/diary_add.xml" value="0.13541666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
